@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 14e489fa0d3770747a3adda9d9cf30a3
+guid: 07e85b443a598f64d8ca3fd140e2422a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spacebridge opening_0
+      name: RewindDONE_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf29802148bba3447a647c7dc9037141
-      internalID: -2123784225
+      spriteID: 54715937d2559c4439754016cf719731
+      internalID: 1346915487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spacebridge opening_1
+      name: RewindDONE_1
       rect:
         serializedVersion: 2
         x: 32
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22a729ed3f0810e4fbebab44fbff663f
-      internalID: -232162115
+      spriteID: 408ba74d3f64823438422363561e0a95
+      internalID: 404573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spacebridge opening_2
+      name: RewindDONE_2
       rect:
         serializedVersion: 2
         x: 64
@@ -153,92 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2349be727ffb2b47aeb25f03844093b
-      internalID: 1069241118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spacebridge opening_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3e6f82c11bfa7f4e8eb35877fabe651
-      internalID: 1583635586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spacebridge opening_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d41955bd979ab540a3c229fe697ed62
-      internalID: -1839458346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spacebridge opening_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f00a42c676f1416478c63685f3e806a2
-      internalID: -80561784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spacebridge opening_6
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 076425d512f12994689953f2d79ad7c1
-      internalID: -1210056862
+      spriteID: b5dc15eca259d3c4dbcf00574e076caf
+      internalID: 527485688
       vertices: []
       indices: 
       edges: []
@@ -254,13 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      spacebridge opening_0: -2123784225
-      spacebridge opening_1: -232162115
-      spacebridge opening_2: 1069241118
-      spacebridge opening_3: 1583635586
-      spacebridge opening_4: -1839458346
-      spacebridge opening_5: -80561784
-      spacebridge opening_6: -1210056862
+      RewindDONE_0: 1346915487
+      RewindDONE_1: 404573
+      RewindDONE_2: 527485688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
